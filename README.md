@@ -26,6 +26,7 @@
 Add yours too! 🥰
 
 - [trendy-resume.now.sh](https://trendy-resume.now.sh)
+- [kdw.now.sh](https://kdw.now.sh)
 
 ## 🏗 Make one for youself!
 
